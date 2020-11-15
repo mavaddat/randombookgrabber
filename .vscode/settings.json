@@ -1,5 +1,10 @@
 {
     "python.analysis.extraPaths": [
-        "C:\\Users\\MavaddatJavid\\Documents\\GitHub\\calibre\\src"
+        "C:\\Users\\MavaddatJavid\\Documents\\GitHub\\calibre\\src",
+        "${env:CALIBRE_DEVELOP_FROM}"
+    ],
+    "cSpell.words": [
+        "epub",
+        "mobi"
     ]
 }
